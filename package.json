@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "frinedFinder",
+  "main": "server.js",
+  "scripts": {
+    "test": "ff",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HishamN/FriendFinder.git"
+  },
+  "author": "Hisham Noman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HishamN/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/HishamN/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chosen-js": "^1.8.5",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
