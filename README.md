@@ -4,7 +4,7 @@ Users answer questions about themselves and the closest match of who they're com
 View Demo Built with (HTML5 CSS3 Bootstrap Node.js Express)
 
 ![app image](/image/pic1.png)
-![app image](/image/pic1.png)
+![app image](/image/pic2.png)
 
 
 
